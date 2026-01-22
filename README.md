@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Samuel
 
-<!--
-**Samuel-eng-SW/Samuel-eng-SW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on logic, clean code and structured systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- Estudante / desenvolvedor de Engenharia de Software
+- Interesse em sistemas bem arquitetados
+- Gosto de resolver problemas de forma estruturada
+
+---
+
+## Tecnologias
+- Linguagens: Javascript, Dart, SQL
+- Ferramentas: Linux,Git
+- Web: HTML, CSS
+
