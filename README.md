@@ -18,7 +18,7 @@ Software Engineer student focused on logic, clean code and structured systems.
 
 ---
 
-##Atualmente focado em
+## Atualmente focado em
 - Consolidar fundamentos de engenharia
 - Estruturação de projetos
 - Boas práticas de versionamento
