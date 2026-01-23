@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel
 
-Software Engineer focused on logic, clean code and structured systems.
+Software Engineer student focused on logic, clean code and structured systems.
 
 ---
 
@@ -12,7 +12,7 @@ Software Engineer focused on logic, clean code and structured systems.
 ---
 
 ## Tecnologias
-- Linguagens: Javascript, SQL e um pouco de Dart😅
-- Ferramentas: Linux e Git
-- Web: HTML e CSS
+- 💡 Linguagens: Javascript, SQL e um pouco de Dart 😅
+- 🔧 Ferramentas: Linux e Git
+- 🌐 Web: HTML e CSS
 
