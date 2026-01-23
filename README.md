@@ -12,7 +12,7 @@ Software Engineer focused on logic, clean code and structured systems.
 ---
 
 ## Tecnologias
-- Linguagens: Javascript, Dart, SQL
-- Ferramentas: Linux,Git
-- Web: HTML, CSS
+- Linguagens: Javascript, SQL e um pouco de Dart😅
+- Ferramentas: Linux e Git
+- Web: HTML e CSS
 
