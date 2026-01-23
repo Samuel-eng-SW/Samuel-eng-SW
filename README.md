@@ -16,3 +16,10 @@ Software Engineer student focused on logic, clean code and structured systems.
 - 🔧 Ferramentas: Linux e Git
 - 🌐 Web: HTML e CSS
 
+---
+
+##Atualmente focado em
+- Consolidar fundamentos de engenharia
+- Estruturação de projetos
+- Boas práticas de versionamento
+
