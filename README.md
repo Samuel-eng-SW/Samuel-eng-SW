@@ -5,7 +5,7 @@ Software Engineer student focused on logic, clean code and structured systems.
 ---
 
 ## Sobre mim
-- 🎓 Estudante / desenvolvedor de Engenharia de Software / engenheiro QA em formação
+- 🎓 Estudante / desenvolvedor de Engenharia de Software 
 - ⚙️ Interesse em sistemas bem arquitetados
 - 🧮 Gosto de resolver problemas de forma estruturada
 
